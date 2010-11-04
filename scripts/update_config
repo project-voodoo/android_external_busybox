@@ -1,4 +1,4 @@
-#!/bin/sh -ex
+#!/bin/bash -ex
 #
 # Update relevant files after config change
 # shade@chemlab.org
